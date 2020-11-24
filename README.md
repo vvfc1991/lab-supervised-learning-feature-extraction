@@ -41,4 +41,4 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 [pandas.Series.value_counts](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.Series.value_counts.html)
 
-[pandas.core.groupby.DataFrameGroupBy.agg](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.core.groupby.DataFrameGroupBy.agg.html)
+[pandas.core.groupby.DataFrameGroupBy.agg](https://pandas.pydata.org/pandas-docs/version/0.23.4/generated/pandas.core.groupby.DataFrameGroupBy.agg.html)
